@@ -15,6 +15,7 @@ Testimonial extension for Magento 2 allows customer to share their reviews about
 * Admin can manage testimonials store wise.
 * Admin can add latest testimonial widget in any CMS Page or block.
 * Admin can configure Different way to show Testimonial carousel/Listing.
+
 [Read all Features](https://www.magearray.com/testimonial-extension-for-magento-2.html) 
 
 ## SUPPORT
