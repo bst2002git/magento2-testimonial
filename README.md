@@ -1,5 +1,5 @@
 # Testimonial extension for Magento 2 by MageArray #
-You can get this extension from [Here](https://www.magearray.com/testimonial-extension-for-magento-2.html).
+You can get this extension from Here.
 ## Technical Details ##
 * Name: Testimonial
 * Compatible With: <br />
@@ -16,7 +16,7 @@ Testimonial extension for Magento 2 allows customer to share their reviews about
 * Admin can add latest testimonial widget in any CMS Page or block.
 * Admin can configure Different way to show Testimonial carousel/Listing.
 
-[Read all Features](https://www.magearray.com/testimonial-extension-for-magento-2.html) 
+ 
 
 ## SUPPORT
-We support all our customers through our website. If you have any questions on Extension or need support with its use please [contact us here](https://www.magearray.com/contact/) – we're happy to help you.
+We support all our customers through our website. If you have any questions on Extension or need support with its use please contact us here – we're happy to help you.
